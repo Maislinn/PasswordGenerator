@@ -49,8 +49,8 @@ To use this REPO:
 ## Features
 - Node.js
 
-![Demo1](./Assets/Demo1.png)
-![Demo2](./Assets/Demo2.png)
+![Demo1](./Demo1.png)
+![Demo2](./Demo2.png)
 
 
 
