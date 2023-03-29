@@ -37,7 +37,7 @@ var passwordLength = parseInt(prompt("How many characters would you like your pa
         var lowercase = confirm("Click OK to confirm including lowercase letters.");
         var numbers = confirm("Click OK to confirm including numbers.");
         var specialChars = confirm("Click OK to confirm including special characters.");
-    //};
+    };
     
 // if user does not select any character types, alert user
     if (upAlpha === false && lowercase === false && numbers === false && specialChars === false) { 
@@ -83,7 +83,7 @@ function writePassword() {
 
   passwordText.value = password;
 
-}
+
 }
 
 // Add event listener to generate button
